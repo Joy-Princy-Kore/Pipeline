@@ -5,7 +5,7 @@ pool: Default
 
 steps:
 - script: echo Hellgfhjo, world!
-  displayName: 'Run a onjyughuehgyuyugyg-li87bttnntdg7jirtuhiujijkgjuKOde skkcrip456t'
+  displayName: 'Run a onjyughuehgyuyugyg-li87bttnntdg7jirtuhiujijkgjuKde skkcrip456t'
 
 - script: |
     echo Add other tasks to buihbuygld, test, and deploy your project.
